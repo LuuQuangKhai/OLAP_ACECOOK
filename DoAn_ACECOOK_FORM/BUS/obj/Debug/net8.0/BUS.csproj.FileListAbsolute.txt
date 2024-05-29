@@ -1,0 +1,11 @@
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.deps.json
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\refint\BUS.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\ref\BUS.dll
