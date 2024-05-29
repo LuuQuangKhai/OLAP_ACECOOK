@@ -40,12 +40,20 @@ namespace GUI
         {
             if(txt_MatKhau.Text.Trim().Equals("") || txt_TenDangNhap.Text.Trim().Equals(""))
             {
-                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không được để trống !");
+                MessageBox.Show(this, "Tên đăng nhập hoặc mật khẩu không được để trống !", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             else
             {
-                
+                FORM_KhungTrang gui = new FORM_KhungTrang();
+                this.Hide();
+                gui.Show();
+                gui.FormClosing += Gui_FormClosing;
             }
+        }
+
+        private void Gui_FormClosing(object? sender, FormClosingEventArgs e)
+        {
+            this.Show();
         }
 
         private void btn_QuenMatKhau_Click(object sender, EventArgs e)

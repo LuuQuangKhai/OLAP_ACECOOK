@@ -9,3 +9,15 @@ D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
 D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
 D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
 D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll

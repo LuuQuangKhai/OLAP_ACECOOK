@@ -19,7 +19,22 @@ namespace GUI
 
         private void FORM_KhungTrang_Load(object sender, EventArgs e)
         {
+            panel_KhungTrang.Controls.Clear();
+            US_TrangChu gui = new US_TrangChu();
+            panel_KhungTrang.Controls.Add(gui);
+        }
+
+        private void menuItem_TrangChu_Click(object sender, EventArgs e)
+        {
+            panel_KhungTrang.Controls.Clear();
+            US_TrangChu gui = new US_TrangChu();
+            panel_KhungTrang.Controls.Add(gui);
+        }
+
+        private void menuItem_QuanTri_Click(object sender, EventArgs e)
+        {
 
         }
+
     }
 }
