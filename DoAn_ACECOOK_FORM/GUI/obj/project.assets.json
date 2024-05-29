@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+      "projectUniqueName": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+      "projectPath": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\luuca\\.nuget\\packages\\",
-      "outputPath": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\obj\\",
+      "outputPath": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luuca\\AppData\\Roaming\\NuGet\\NuGet.Config",

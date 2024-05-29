@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {}
+    "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {}
   },
   "projects": {
-    "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {
+    "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+        "projectUniqueName": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
         "projectName": "BUS",
-        "projectPath": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+        "projectPath": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
         "packagesPath": "C:\\Users\\luuca\\.nuget\\packages\\",
-        "outputPath": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\obj\\",
+        "outputPath": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luuca\\AppData\\Roaming\\NuGet\\NuGet.Config",

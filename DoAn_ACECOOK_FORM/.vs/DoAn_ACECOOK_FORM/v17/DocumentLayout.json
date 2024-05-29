@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\",
+  "WorkspaceRootPath": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A721B530-67D0-4B83-AD6D-108C6FD4B5F5}|DTO\\DTO.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A721B530-67D0-4B83-AD6D-108C6FD4B5F5}|DTO\\DTO.csproj|solutionrelative:dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_khungtrang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\form_dangnhap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\gui\\form_dangnhap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_dangnhap.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\file_doankysu_main\\doan_acecook_form\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|d:\\file_doankysu_main\\doan_acecook_form\\bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|solutionrelative:bus\\bus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A721B530-67D0-4B83-AD6D-108C6FD4B5F5}|DTO\\DTO.csproj|d:\\file_doankysu_main\\doan_acecook_form\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A721B530-67D0-4B83-AD6D-108C6FD4B5F5}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|d:\\file_doankysu_main\\doan_acecook_form\\dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|solutionrelative:dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|d:\\file_doankysu_main\\doan_acecook_form\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|d:\\olap_acecook\\olap_acecook\\doan_acecook_form\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,27 +61,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "US_TrangChu.cs [Design]",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
-              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs [Design]",
-              "RelativeToolTip": "GUI\\US_TrangChu.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "DTO_NhanVien.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\DTO\\DTO_NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_NhanVien.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\DTO\\DTO_NhanVien.cs",
+              "RelativeToolTip": "DTO\\DTO_NhanVien.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:56:50.683Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T05:14:41.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "US_TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
+              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:56:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FORM_KhungTrang.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
               "RelativeDocumentMoniker": "GUI\\FORM_KhungTrang.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
               "RelativeToolTip": "GUI\\FORM_KhungTrang.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T04:54:28.461Z",
@@ -89,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FORM_KhungTrang.cs [Design]",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs",
               "RelativeDocumentMoniker": "GUI\\FORM_KhungTrang.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs [Design]",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_KhungTrang.cs [Design]",
               "RelativeToolTip": "GUI\\FORM_KhungTrang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T04:53:44.753Z",
@@ -101,83 +112,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FORM_DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
               "RelativeDocumentMoniker": "GUI\\FORM_DangNhap.cs",
               "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs [Design]",
-              "RelativeToolTip": "GUI\\FORM_DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:34:58.532Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T04:34:58.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FORM_DangNhap.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
               "RelativeDocumentMoniker": "GUI\\FORM_DangNhap.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
               "RelativeToolTip": "GUI\\FORM_DangNhap.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:23:01.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GUI",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
-              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
-              "RelativeToolTip": "GUI\\GUI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T04:01:10.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\Program.cs",
-              "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\Program.cs",
-              "RelativeToolTip": "GUI\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:01:57.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FORM_DangNhap.resx",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.resx",
-              "RelativeDocumentMoniker": "GUI\\FORM_DangNhap.resx",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.resx",
-              "RelativeToolTip": "GUI\\FORM_DangNhap.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-29T04:01:55.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T04:23:01.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BUS",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T04:01:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:01:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FORM_DangNhap.resx",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.resx",
+              "RelativeDocumentMoniker": "GUI\\FORM_DangNhap.resx",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.resx",
+              "RelativeToolTip": "GUI\\FORM_DangNhap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-29T04:01:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BUS.csproj",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
               "RelativeDocumentMoniker": "BUS\\BUS.csproj",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
               "RelativeToolTip": "BUS\\BUS.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T03:56:38.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T03:56:38.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\Class1.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\Class1.cs",
               "RelativeDocumentMoniker": "BUS\\Class1.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\BUS\\Class1.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\BUS\\Class1.cs",
               "RelativeToolTip": "BUS\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T12:17:46.226Z"
@@ -186,24 +191,12 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\DAO\\Class1.cs",
+              "DocumentMoniker": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\DAO\\Class1.cs",
               "RelativeDocumentMoniker": "DAO\\Class1.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\DAO\\Class1.cs",
+              "ToolTip": "D:\\OLAP_ACECOOK\\OLAP_ACECOOK\\DoAn_ACECOOK_FORM\\DAO\\Class1.cs",
               "RelativeToolTip": "DAO\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T12:17:05.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\DTO\\Class1.cs",
-              "RelativeDocumentMoniker": "DTO\\Class1.cs",
-              "ToolTip": "D:\\File_DoAnKySu_Main\\DoAn_ACECOOK_FORM\\DTO\\Class1.cs",
-              "RelativeToolTip": "DTO\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:16:46.876Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
